@@ -2,7 +2,7 @@
 
 **Time budget:** ~5–6 hours. We care about correctness on edge cases, clear
 modeling, and tests — not breadth of features.
-
+ 
 When something is genuinely ambiguous, **state your assumption in the README and
 move on** rather than emailing us. One part of this problem (the payment *shape*)
 is deliberately open-ended; the rest is meant to be unambiguous, so if a rule
