@@ -1,6 +1,6 @@
 """CLI: evaluate one case folder and print the Result as JSON.
 
-    python run.py cases/case1_feasible_even
+    python run.py cases/case1_feasible_even 
 """
 
 from __future__ import annotations
