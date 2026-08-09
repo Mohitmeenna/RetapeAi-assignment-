@@ -1,4 +1,4 @@
-"""Example expectations for the four provided cases.
+"""Example expectations for the four provided cases. 
 
 These FAIL until you implement feasibility/engine.py::evaluate_offer. Treat them
 as the minimum bar — your own test suite should go well beyond these. They do not
