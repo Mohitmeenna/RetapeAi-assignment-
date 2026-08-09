@@ -3,7 +3,7 @@
 Welcome, and thanks for taking the time. The full problem is in
 [`ASSIGNMENT.md`](./ASSIGNMENT.md). This README is just orientation.
 
-## The task in one line
+## The task in one line 
 
 Given a client's escrow account, a settlement offer, and a creditor's rules,
 decide whether the offer is affordable (and schedule it, collecting our fee as
