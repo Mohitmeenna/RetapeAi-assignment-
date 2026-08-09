@@ -1,4 +1,4 @@
-"""Candidate implementation goes here.
+"""Candidate implementation goes here. 
 
 Implement ``evaluate_offer`` so that it satisfies the rules in ASSIGNMENT.md and
 the example expectations in tests/test_cases.py. The dataclasses below define the
